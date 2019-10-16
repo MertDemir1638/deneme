@@ -11,11 +11,11 @@
 </head>
 <body>
     <?php
-        echo "Selamlar<br><br>PHP INFO;<br><br>
+        echo "Selamlar<br><br>
         
             Deneme & Test içerik listesi burada görüntülenecek
         
-        <br><br>";
+        <br><br>PHP INFO;<br><br>";
         phpinfo();
     ?>
 </body>
